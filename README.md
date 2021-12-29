@@ -7,5 +7,5 @@
 ## Detect Objects
 -Navigate to installation folder  
 -Run python3  
--Type import object_detection and press enter  
--Type object_detection.show_image() and press enter  
+-Type from object_detection import show_image and press enter  
+-Type show_image() and press enter  

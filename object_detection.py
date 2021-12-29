@@ -79,3 +79,4 @@ def show_image(min_score=0.2):
         ax.text(box[1], box[2], f'{label} {score:.2f}', color='w')
 
     plt.show()
+
