@@ -88,7 +88,7 @@ def show_image():
     plt.show()
     
 
-def listen(label, callback):
+def add_listener(label, callback):
     """
     Calls a function whenever an object is detected
     
