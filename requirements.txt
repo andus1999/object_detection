@@ -97,7 +97,7 @@ sn3218==1.2.7
 soupsieve==1.8
 spidev==3.4
 ssh-import-id==5.7
-tflite-runtime==2.5.0.post1
+tflite-runtime==2.5.0
 thonny==3.3.5
 touchphat==0.0.1
 twython==3.7.0
