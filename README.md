@@ -5,6 +5,7 @@
 - Navigate to dwonloaded folder  
 - Run pip3 install -r requirements.txt  
 - Make sure camera interface is enabled in Raspberry Pi Configuration  
+- Reboot  
 
 ## Detect objects
 - Open terminal  
