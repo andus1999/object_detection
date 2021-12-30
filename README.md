@@ -13,3 +13,17 @@
 - Run python3  
 - Type "from object_detection import show_image" and press enter  
 - Type "show_image()" and press enter  
+
+## Basic example
+```python
+"""Prints "Person detected" every time a person is detected for 60 seconds"""
+
+import time
+from object_detection import *
+
+add_listener("person", lambda: print("Person detected"))
+start_detection()
+time.sleep(60)
+stop_detection()
+```
+  
