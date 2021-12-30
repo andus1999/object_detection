@@ -10,9 +10,11 @@
 ## Detect objects
 - Open terminal  
 - Navigate to downloaded folder  
-- Run python3  
-- Type "from object_detection import show_image" and press enter  
-- Type "show_image()" and press enter  
+- Run python3 and run   
+```python
+from object_detection import show_image
+show_image()
+```  
 
 ## Basic example
 ```python
